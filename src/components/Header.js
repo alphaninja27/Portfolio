@@ -77,7 +77,7 @@ const Header = () => {
       <HeaderContainer>
         <Logo>Armaan Nayyar</Logo>
         <Nav>
-          <NavLink to="/">Home</NavLink>
+          <NavLink to="/Portfolio">Home</NavLink>
           {/* Add links for other sections here */}
           {/* <NavLink to="/education">Education</NavLink> */}
           {/*<NavLink to="/work-experience">Work Experience</NavLink> */}
