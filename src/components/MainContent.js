@@ -15,7 +15,7 @@ const MainContent = () => {
       <HomeSection>
         <ProfileImage src={profileImage} alt="Profile" />
         <Title>
-          Welcome to My Portfolio
+          Armaan Nayyar
           <br />
           <Typist avgTypingDelay={100} cursor={{ show: false }}>
             <span>VENI</span>

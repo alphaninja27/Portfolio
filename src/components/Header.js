@@ -75,7 +75,7 @@ const NavLink = styled(Link)`
 const Header = () => {
     return (
       <HeaderContainer>
-        <Logo>Armaan Nayyar</Logo>
+        <Logo>Welcome to my Portfolio!</Logo>
         <Nav>
           <NavLink to="/Portfolio">Home</NavLink>
           {/* Add links for other sections here */}
