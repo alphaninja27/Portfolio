@@ -44,7 +44,7 @@ function App() {
           <Header />
           <MainContentContainer>
             <Routes>
-            <Route path="/" element={<MainContent />} />
+            <Route path="/Portfolio" element={<MainContent />} />
             {/* Add routes for other sections */}
             {/* Example: */}
             <Route path="/education" element={<EducationSection />} /> 
