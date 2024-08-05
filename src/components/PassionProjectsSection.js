@@ -11,9 +11,9 @@ const PassionProjectsSection = () => {
       </SectionList>
       <Title>🏆Achievements</Title>
       <SectionList>
+        <ListItem>Awarded Class of 1987 Alumni Scholarship for exceptional performance in extra-curricular activities.</ListItem>
         <ListItem>Selected for Nas Academy x Solana Developer Program 2023.</ListItem>
         <ListItem>Selected for Amazon ML Summer School 2022.</ListItem>
-        <ListItem>Finished in TOP 5 in MLSC TIET Hackathon-MAKE4THON 2022.</ListItem>
         <ListItem>Best Delegate in The Crisis Summit 2021, Thapar MUN Society and in Indian International MUN 2019.</ListItem>
         <ListItem>Amongst top 2% in Upraised Embark's ESAT 2021, subsequently becoming an Embark Fellow.</ListItem>
       </SectionList>
