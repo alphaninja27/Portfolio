@@ -5,23 +5,25 @@ const WorkExperienceSection = () => {
   return (
     <Container>
       <Title>‍💼Work Experience</Title>
-      <SectionList>
+      <SectionList><SectionListItem>
+          <SectionTitle>Software Testing Intern at Arista Networks, January - June, 2024</SectionTitle>
+          <SectionDescription>
+            <ul>
+              <li>Executing test plans to validate new features or products</li>
+              <li>Working with other testers and developers to troubleshoot and diagnose software defects and validate fixes to
+those defects.</li>
+              <li>Using Ixia traffic generator tools to emulate real-world traffic flows as you perform tests.</li>
+              <li>Setting up networking equipment in the lab to support test efforts.</li>
+              <li>Collaborated with cross-functional teams to deliver high-quality software solutions.</li>
+            </ul>
+          </SectionDescription>
+        </SectionListItem>
         <SectionListItem>
           <SectionTitle>Advanced Application Developer Analyst Intern at Accenture, June - July, 2023</SectionTitle>
           <SectionDescription>
             <ul>
               <li>Spearheaded the development of Healthcare Chatbot and data-driven dashboards.</li>
               <li>Collaborated with cross-functional teams to deliver high-quality software solutions.</li>
-            </ul>
-          </SectionDescription>
-        </SectionListItem>
-        <SectionListItem>
-          <SectionTitle>Beta Student Ambassador at Microsoft</SectionTitle>
-          <SectionDescription>
-            <ul>
-              <li>
-                Student representative for Microsoft, as part of a global community of students in technology. With exclusive access to various learning resources and events, achieved training in skills not usually taught in academia.
-              </li>
             </ul>
           </SectionDescription>
         </SectionListItem>
