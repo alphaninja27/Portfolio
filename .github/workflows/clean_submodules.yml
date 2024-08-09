@@ -1,0 +1,24 @@
+name: Clean Submodules
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  clean:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          submodules: false  # Disable submodule processing
+
+      - name: Clean submodule cache
+        run: |
+          git submodule deinit -f .
+          git rm --cached node_modules/.cache/gh-pages/https!github.com!alphaninja27!Portfolio
+          git config -f .git/config --remove-section submodule.node_modules/.cache/gh-pages/https!github.com!alphaninja27!Portfolio || true
+
+      # Add any additional build and deployment steps if needed
