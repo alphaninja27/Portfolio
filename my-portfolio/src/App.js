@@ -80,7 +80,7 @@ function App() {
     home: (
       <section>
         <h2>Welcome to My Portfolio!</h2>
-        <img src="my-portfolio\src\components\Display Picture.jpeg" alt="Your Name" style={{ borderRadius: '50%', width: '150px', height: '150px' }} />
+        <img src="my-portfolio/src/components/Display Picture.jpeg" alt="Your Name" style={{ borderRadius: '50%', width: '150px', height: '150px' }} />
         <p>Hi! I'm Armaan!, a passionate techie with interest in various technologies. Welcome to my portfolio!</p>
       </section>
 
