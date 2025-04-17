@@ -88,6 +88,19 @@ function App() {
     work: (
       <section>
         <h2>‍💼Work Experience</h2>
+        <p><strong>🎮Zupee</strong><br />Software Development Engineer in Test, October 2024 - Current</p>
+        <ul>
+          <li>Designed and executed comprehensive test plans and test cases for web, mobile, and backend APIs, ensuring
+ high-quality deliverables through UI, functionality, and database testing.</li>
+          <li>Automated mobile application testing using Jest and backend API testing with Postman, enhancing efficiency
+ and test coverage across critical workflows.</li>
+          <li> Implemented robust test automation frameworks integrated with Jenkins for CI/CD pipelines, enabling
+ seamless continuous testing.</li>
+          <li> Implemented robust test automation frameworks integrated with Jenkins for CI/CD pipelines, enabling
+ seamless continuous testing.</li>
+          <li> Performed device testing and contributed to building reusable and modular test automation solutions, improving
+ scalability and maintainability of test suites.</li>
+        </ul>
         <p><strong>📶Arista Networks</strong><br />Software Test Intern, January 2024 - June 2024</p>
         <ul>
           <li>Executing test plans to validate new features or products.</li>
@@ -100,6 +113,9 @@ function App() {
           <li>Supported in building proprietary assets, prototypes, and innovative applications.</li>
           <li>Delivered presentations on Data Migration, SDLC, and created interactive Dashboards on PowerBI.</li>
         </ul>
+
+   <h2 👨‍💻Freelance Experience</h2>
+   <p><strong><a href="https://sounding-the-invisible.vercel.app/"Sounding The Invisible</a></strong><br /></p>
       </section>
     ),
     education: (
