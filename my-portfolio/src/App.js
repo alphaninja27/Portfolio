@@ -114,8 +114,8 @@ function App() {
           <li>Delivered presentations on Data Migration, SDLC, and created interactive Dashboards on PowerBI.</li>
         </ul>
 
-   <h2 👨‍💻Freelance Experience</h2>
-   <p><strong><a href="https://sounding-the-invisible.vercel.app/"Sounding The Invisible</a></strong><br /></p>
+   <h2> 👨‍💻Freelance Experience</h2>
+   <p><strong><a href="https://sounding-the-invisible.vercel.app/">Sounding The Invisible</a></strong></p>
       </section>
     ),
     education: (
